@@ -2,7 +2,7 @@
     
     <div class="jumbotron">
     <img src="fetlogo.png" class="rounded" alt="Ffpu logo">
-    <h1 class="display-4">Fakultet ekonomije i turizma1</h1>
+    <h1 class="display-4">Fakultet ekonomije i turizma</h1>
     <hr class="my-3">
     <div class="row">
     <h2 class="col-sm-3">Opis fakulteta:</h2>
